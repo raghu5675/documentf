@@ -3,3 +3,7 @@ git remote add origin https://github.com/raghu5675/documentf.git
 git add 1
 
 git commit -m "Add 1.txt"
+
+git push -u origin master
+
+--------------------------
